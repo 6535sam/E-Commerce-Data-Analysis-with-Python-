@@ -3,7 +3,7 @@
 The objective of this project is to analyze raw E-Commerce transactional data to understand customer purchasing behavior, sales trends, and product performance. This data-driven analysis helps the business unlock critical insights to optimize inventory, improve marketing strategies, and drive sales growth in upcoming quarters.
 
 ## Dataset used
-- [Raw Transactional Dataset](https://github.com/6535sam/E-Commerce-Data-Analysis-with-Python-/blob/main/Sample%20-%20Superstore.csv)
+(https://github.com/6535sam/E-Commerce-Data-Analysis-with-Python-/blob/main/Sample%20-%20Superstore.csv)
 ## Questions (KPIs)
 - What is the monthly revenue trend and which month recorded the highest sales?
 - What is the optimal time (peak hours) to display advertisements to maximize customer engagement?
@@ -19,17 +19,7 @@ The objective of this project is to analyze raw E-Commerce transactional data to
 
 ## Dashboards & Visualizations
 
-### 📈 1. Monthly Revenue & Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
 
-### ⏰ 2. Peak Ordering Hours (Ad Optimization)
-![Peak Hours Analysis](images/peak_hours.png)
-
-### 🌍 3. Top Countries by Total Revenue
-![Geographical Distribution](images/top_countries.png)
-
-### 📦 4. Top 10 Selling Products
-![Top Products](images/top_products.png)
 
 ## Project Insights
 - **Seasonal Sales Surge:** There is a significant spike in revenue and order volume during the festive season months (October to December).
