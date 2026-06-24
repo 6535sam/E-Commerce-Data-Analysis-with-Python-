@@ -19,7 +19,7 @@ The objective of this project is to analyze raw E-Commerce transactional data to
 
 ## Dashboards & Visualizations
 
-
+-[ Dashboards ](https://github.com/6535sam/E-Commerce-Data-Analysis-with-Python-/blob/main/e%20commerce%20project%20output.pdf)
 
 ## Project Insights
 - **Seasonal Sales Surge:** There is a significant spike in revenue and order volume during the festive season months (October to December).
