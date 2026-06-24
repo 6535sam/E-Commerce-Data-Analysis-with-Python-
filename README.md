@@ -3,7 +3,7 @@
 The objective of this project is to analyze raw E-Commerce transactional data to understand customer purchasing behavior, sales trends, and product performance. This data-driven analysis helps the business unlock critical insights to optimize inventory, improve marketing strategies, and drive sales growth in upcoming quarters.
 
 ## Dataset used
-(https://github.com/6535sam/E-Commerce-Data-Analysis-with-Python-/blob/main/Sample%20-%20Superstore.csv)
+- [ Dataset used](https://github.com/6535sam/E-Commerce-Data-Analysis-with-Python-/blob/main/Sample%20-%20Superstore.csv)
 ## Questions (KPIs)
 - What is the monthly revenue trend and which month recorded the highest sales?
 - What is the optimal time (peak hours) to display advertisements to maximize customer engagement?
